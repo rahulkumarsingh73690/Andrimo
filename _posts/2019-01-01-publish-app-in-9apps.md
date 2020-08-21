@@ -5,7 +5,7 @@ author: Team Andrimo
 categories: [ Tutorial ]
 image: https://www.andrimo.com/assets/images/how-to-publish-android-application-in-9apps.jpg
 featured: true
-<meta http-equiv="refresh" content="0; url=https://hubsadda.com/publish-android-application-in-9apps/">
+<meta http-equiv="refresh" content="0; url="https://hubsadda.com/publish-android-application-in-9apps/">
 <link rel="canonical" href="https://hubsadda.com/publish-android-application-in-9apps/" />
 hidden: true
 ---
