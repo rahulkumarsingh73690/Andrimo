@@ -5,6 +5,7 @@ author: Team Andrimo
 categories: [ Tutorial ]
 image: https://www.andrimo.com/assets/images/how-to-publish-android-application-in-9apps.jpg
 featured: true
+alias: [/publish-app-in-9apps/, /second-alias/index.html]
 hidden: true
 ---
 
